@@ -24,6 +24,8 @@ The aime of this project is to explore the data set by using statistics methods 
 
 ## Analyse program for Iris data set
 The program language used in this assignment is Python
+
 The librairies used in this assigment are `numpy`, `matplotlib`, `seaborn`, and `pandas`
+
 The sections of the analyse program and theirs outputs are visualised in [tasks.ipynb](https://github.com/quyenphanlyons/data_analytics/blob/main/tasks.ipynb).
 
